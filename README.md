@@ -1,0 +1,2 @@
+# Mixly_Aliyun_EMW3080
+用EMW3080芯片连接阿里云的Mixly第三方库
